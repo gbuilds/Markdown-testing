@@ -33,3 +33,5 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+
+Great markdown cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)[here]
