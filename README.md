@@ -44,9 +44,4 @@ puts markdown.to_html
 ```
 Embedding a wistia video?
 
-<div id="wistia_cfgay7jpsv" class="wistia_embed" style="width:300px;height:169px;">&nbsp;</div>
-<script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/E-v1.js"></script>
-<script>
-wistiaEmbed = Wistia.embed("cfgay7jpsv");
-</script>
-
+<iframe src="//fast.wistia.net/embed/iframe/cfgay7jpsv" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="300" height="169"></iframe><script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
