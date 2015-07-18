@@ -6,10 +6,11 @@
 
 > "So you want to know markdown syntax"
 
-* Github has it's own special version of markdown. Here are the [basics](https://help.github.com/articles/markdown-basics/)
+* Github has it's own special version of markdown. [Mastering markdown guide](https://guides.github.com/features/mastering-markdown/)
+* Here are the [basics](https://help.github.com/articles/markdown-basics/)
 * And here is the rest of [github's doc on markdown](https://help.github.com/articles/github-flavored-markdown/)
 * And some tips about [how writing on github works](https://help.github.com/articles/writing-on-github/)
-* Finally, here's a **recommended markdown cheatsheet** [take me there!](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Finally, here's a **recommended markdown cheatsheet** if you like lots of examples [take me there!](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * You can find more general stuff about Markdown the language on [daring fireball](http://daringfireball.net/projects/markdown/)
 
 
