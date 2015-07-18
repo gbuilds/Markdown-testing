@@ -4,6 +4,15 @@
 
 ### Sub-sub-heading
 
+> "So you want to know markdown syntax"
+
+* Github has it's own special version of markdown. Here are the [basics](https://help.github.com/articles/markdown-basics/)
+* And here is the rest of [github's doc on markdown](https://help.github.com/articles/github-flavored-markdown/)
+* And some tips about [how writing on github works](https://help.github.com/articles/writing-on-github/)
+* Finally, here's a **recommended markdown cheatsheet** [take me there!](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* You can find more general stuff about Markdown the language on [daring fireball](http://daringfireball.net/projects/markdown/)
+
+
 ```
 *what's this do*
 ```
@@ -16,16 +25,6 @@
 
 Oh man! **bold** *italic*
 
-> "So you want to know markdown syntax"
-
-* Github has it's own special version of markdown. Here are the [basics]](https://help.github.com/articles/markdown-basics/)
-* And here is the rest of [github's doc on markdown](https://help.github.com/articles/github-flavored-markdown/)
-* And some tips about [how writing on github works](https://help.github.com/articles/writing-on-github/)
-* Finally, here's a **recommended markdown cheatsheet** [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* You can find more general stuff about Markdown the language on [daring fireball](http://daringfireball.net/projects/markdown/)
-
-
-
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
@@ -37,5 +36,5 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
-Embedding a wistia video?
 
+Embedding video isn't possible in github markdown.
