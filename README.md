@@ -11,7 +11,10 @@
 ```
 
 * what's this do?
-Hello
+  * how do I make small bullet points?
+  	* Boom
+
+  * bullet?
 
 Oh man! **bold** *italic*
 
