@@ -4,13 +4,14 @@
 
 ### Sub-sub-heading
 
-/# Escaping a heading??
+/# Escaping a heading
 
-***what's this do
+```
+*what's this do*
+```
 
-* What's this do?
-
-** How about this!
+* what's this do?
+Hello
 
 Oh man! **bold** *italic*
 
