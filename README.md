@@ -42,3 +42,9 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+Embedding a wistia video?
+
+http://home.wistia.com/medias/cfgay7jpsv?embedType=iframe&videoWidth=300
+
+http://home.wistia.com/medias/cfgay7jpsv?embedType=api&videoWidth=300
+
